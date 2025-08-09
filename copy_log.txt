@@ -1,0 +1,15 @@
+﻿--- File Copy Failure Report ---
+File not found or path is invalid: C:\cfh_backup_20250713\archive\old_versions\20250705_101255_countHolders.js
+File not found or path is invalid: C:\cfh_backup_20250713\archive\old_versions\20250705_101255_getHolder.js
+File not found or path is invalid: C:\cfh_backup_20250713\archive\old_versions\20250705_101255_replaceHolders.js
+File not found or path is invalid: C:\cfh_backup_20250713\CFH\frontend\src\components\AdminContractInsights.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\Business\CarHaul\GrokFiles\archive\backend\routes\auth.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\car project rejected files_backup_removed_20250628_003635\dist_routes_escrow_escrow.routes.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\car project rejected files_backup_removed_20250628_003635\dist_services_userProfileService.js
+File not found or path is invalid: C:\Users\Agasi5\Documents\car-financing-hub-v2\backend\models\Escrow.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\car project rejected files_backup_removed_20250628_003635\escrow.service.js
+File not found or path is invalid: C:\Users\Agasi5\Documents\Backup Ag Car haul financing hub\clean Car Finanacing Folder\frontend\crs\components\LenderContractView.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\car project rejected files_backup_removed_20250628_003635\marketplaceService.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\car project rejected files_backup_removed_20250628_003635\PredictionUpdatesWS.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\car project rejected files_backup_removed_20250628_003635\routes_escrow_escrow.routes.js
+File not found or path is invalid: C:\Users\Agasi5\Desktop\Business\CarHaul\GrokFiles\archive\backend\routes\user.js
